@@ -1,0 +1,27 @@
+h1{
+    background-color: lightblue;
+    color: red;
+    text-align: right;
+    margin-right: 200px;
+}
+
+h2{
+    background-color: darkblue;
+    color:blanchedalmond;
+}
+
+p{
+    background-color: white;
+}
+
+li{
+ 
+    a{
+        background-color:black;
+        color: white;
+    }
+}
+
+body{
+    background-image: url('./img/ek.jpg');
+}
